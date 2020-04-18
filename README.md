@@ -2,7 +2,9 @@
 
 
 * Curso em video
-  * [poo](https://youtu.be/KlIL63MeyMY)
+  * [Java Iniciante](https://youtu.be/sTX0UEplF54)
+  * [POO](https://youtu.be/KlIL63MeyMY)
+  
 
 
 * Uteis
