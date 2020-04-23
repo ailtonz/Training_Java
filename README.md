@@ -1,8 +1,5 @@
 # Training_Java
 
-
-* https://www.youtube.com/watch?v=xgqrkCcH6Ko&list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY&index=19
-
 * Curso em video
   * [Java Iniciante](https://youtu.be/sTX0UEplF54)
   * [POO](https://youtu.be/KlIL63MeyMY)
