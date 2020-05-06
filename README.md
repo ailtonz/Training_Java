@@ -2,6 +2,10 @@
 
 > [Curso POO Java #08b - Agregação entre Objetos com Java](https://www.youtube.com/watch?v=8R9RpqpXI_c&list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY&index=17)
 
+> [API e Web Service RESTful](https://www.youtube.com/playlist?list=PL8iIphQOyG-B0cdIn3_-agWEYaEsdTVYI)
+
+> [Bean no Spring Framework](https://www.youtube.com/playlist?list=PL8iIphQOyG-CE8wY3hY2SY-MaB0rJyQO2)
+
 > [Programming Language | Tutorial](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpPpdR_9IQBUDLjYalvdrGGb)
 
 
