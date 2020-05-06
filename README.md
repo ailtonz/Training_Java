@@ -6,6 +6,8 @@
 
 > [Bean no Spring Framework](https://www.youtube.com/playlist?list=PL8iIphQOyG-CE8wY3hY2SY-MaB0rJyQO2)
 
+> [Curso de Spring Boot: Criando uma aplicação Java Web](https://www.youtube.com/playlist?list=PL8iIphQOyG-DHLpEx1TPItqJamy08fs1D)
+
 > [Programming Language | Tutorial](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpPpdR_9IQBUDLjYalvdrGGb)
 
 
