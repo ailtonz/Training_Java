@@ -2,6 +2,8 @@
 
 > https://www.youtube.com/watch?v=8R9RpqpXI_c&list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY&index=17
 
+> [Programming Language | Tutorial](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpPpdR_9IQBUDLjYalvdrGGb)
+
 
 * Curso em video
   * [Java Iniciante](https://youtu.be/sTX0UEplF54)
