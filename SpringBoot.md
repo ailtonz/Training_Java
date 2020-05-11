@@ -13,8 +13,11 @@ https://www.youtube.com/watch?v=UdJYuwnqL3I&list=PL8iIphQOyG-AdKMQWtt1bqdVm8QUnX
 ## SpringBoot
 
 https://spring.io/tools3/sts
+
 https://www.alura.com.br/artigos/primeiros-passos-spring
+
 https://www.youtube.com/results?search_query=caelum+java+spring+boot
+
 https://www.devmedia.com.br/primeiros-passos-com-o-spring-boot/33654
 
 
