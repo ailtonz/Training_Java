@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.ce.wcaquino.suites.SuiteGeral
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 60.066 sec - in br.ce.wcaquino.suites.SuiteGeral
