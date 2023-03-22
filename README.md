@@ -1,8 +1,7 @@
 # Training_Java
 
 
-> [Playlist Java]
-https://youtube.com/playlist?list=PLx4x_zx8csUjFC5WWjoNUL7LOOD7LCKRW
+> [Playlist Java](https://youtube.com/playlist?list=PLx4x_zx8csUjFC5WWjoNUL7LOOD7LCKRW)
 
 > [Como fazer em java](https://youtube.com/playlist?list=PLWYE7MtUzTMrNDinXj6LWA6aJbfhXjbBR)
 
