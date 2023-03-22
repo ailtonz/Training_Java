@@ -1,5 +1,10 @@
 # Training_Java
 
+
+
+[Como fazer em java](https://youtube.com/playlist?list=PLWYE7MtUzTMrNDinXj6LWA6aJbfhXjbBR)
+
+
 > [JPA - Java Persistence API](https://www.youtube.com/playlist?list=PL8iIphQOyG-CLO45G8gWP6sCMxsB4eIQR)
 
 > [Curso POO Java #08b - Agregação entre Objetos com Java](https://www.youtube.com/watch?v=8R9RpqpXI_c&list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY&index=17)
