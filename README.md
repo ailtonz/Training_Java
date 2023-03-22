@@ -1,8 +1,10 @@
 # Training_Java
 
 
+> [Playlist Java]
+https://youtube.com/playlist?list=PLx4x_zx8csUjFC5WWjoNUL7LOOD7LCKRW
 
-[Como fazer em java](https://youtube.com/playlist?list=PLWYE7MtUzTMrNDinXj6LWA6aJbfhXjbBR)
+> [Como fazer em java](https://youtube.com/playlist?list=PLWYE7MtUzTMrNDinXj6LWA6aJbfhXjbBR)
 
 
 > [JPA - Java Persistence API](https://www.youtube.com/playlist?list=PL8iIphQOyG-CLO45G8gWP6sCMxsB4eIQR)
