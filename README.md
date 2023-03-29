@@ -1,5 +1,6 @@
 # Training_Java
 
+> [Java-week-LinuxTips](https://github.com/Kamilahsantos/Java-week-LinuxTips)
 
 > [Playlist Java](https://youtube.com/playlist?list=PLx4x_zx8csUjFC5WWjoNUL7LOOD7LCKRW)
 
