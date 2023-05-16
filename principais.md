@@ -138,3 +138,8 @@ https://wiki.eclipse.org/Eclipse.ini
 https://dicasdejava.com.br/
 https://mkyong.com/
 
+
+
+JUnit Test Exception Examples
+https://youtu.be/OlSo6QjL9LA
+
